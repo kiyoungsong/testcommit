@@ -25,6 +25,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
+      <h1>이거 추가합니다.</h1>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
